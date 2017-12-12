@@ -1,0 +1,1 @@
+This demo shows how to create a simple blog using react, redux, mongodb and bootstrap v4
